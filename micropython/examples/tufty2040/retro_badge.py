@@ -32,13 +32,13 @@ DARKEST = display.create_pen(64, 80, 16)
 # DARKEST = display.create_pen(0, 0, 0)
 
 # Change your badge and QR details here!
-COMPANY_NAME = "sciurus cybernetics"
-NAME = "M. 'TuFTy'"
-BLURB1 = "RP2040 plus 320x240 TFT LCD"
-BLURB2 = "Nuts From Trees collector"
-BLURB3 = "Will work for peanuts"
+COMPANY_NAME = "Instruqt"
+NAME = "Jeff Pistone"
+BLURB1 = "Solutions Engineer"
+BLURB2 = "Enjoys hacking and video games"
+BLURB3 = "Will work for tacos"
 
-QR_TEXT = "pimoroni.com/tufty2040"
+QR_TEXT = "instruqt.com"
 
 IMAGE_NAME = "squirrel.jpg"
 

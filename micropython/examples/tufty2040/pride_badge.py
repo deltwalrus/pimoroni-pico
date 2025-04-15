@@ -33,8 +33,8 @@ COLOUR_ORDER = [RED, ORANGE, YELLOW, GREEN, INDIGO, VIOLET]  # traditional pride
 # COLOUR_ORDER = [YELLOW, WHITE, AMETHYST, BLACK]  # non-binary flag
 
 # Add chevrons to the left
-# CHEVRONS = [] # No chevrons
-CHEVRONS = [WHITE, PINK, BLUE, BROWN, BLACK]  # Progress Pride Flag
+CHEVRONS = [] # No chevrons
+# CHEVRONS = [WHITE, PINK, BLUE, BROWN, BLACK]  # Progress Pride Flag
 # Initial chevron height compared to screen height
 FIRST_CHEVRON_HEIGHT = 0.4
 
@@ -42,8 +42,8 @@ FIRST_CHEVRON_HEIGHT = 0.4
 STRIPES_DIRECTION = "horizontal"
 
 # Change details here! Works best with a short, one word name
-NAME = "Hel"
-PRONOUNS = "She/they"
+NAME = "Jeff"
+PRONOUNS = "He/him"
 
 # Change the colour of the text (swapping these works better on a light background)
 TEXT_COLOUR = WHITE
